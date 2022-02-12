@@ -36,3 +36,6 @@ Give a ⭐️ if you like this project!
 - Google Fonts By Lior CHAMLA
 - Prettier - Code formatter By Prettier
 
+## NPM Packages installed
+- npm install @mui/material
+- 
