@@ -38,4 +38,5 @@ Give a ⭐️ if you like this project!
 
 ## NPM Packages installed
 - npm install @mui/material
-- 
+- npm i @mui/icons-material
+- npm i @emotion/react @emotion/styled
