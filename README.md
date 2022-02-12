@@ -9,7 +9,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/subratsir/blog-app/issues).
+Feel free to check the [issues page](https://github.com/subratsir/React-Food-Delivery-App/issues).
 
 ## Show your support
 
