@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Food-Delivery-App/static/css/main.cc7d536b.css",
+    "main.js": "/React-Food-Delivery-App/static/js/main.11281c40.js",
+    "static/js/787.6a4a984e.chunk.js": "/React-Food-Delivery-App/static/js/787.6a4a984e.chunk.js",
+    "index.html": "/React-Food-Delivery-App/index.html",
+    "main.cc7d536b.css.map": "/React-Food-Delivery-App/static/css/main.cc7d536b.css.map",
+    "main.11281c40.js.map": "/React-Food-Delivery-App/static/js/main.11281c40.js.map",
+    "787.6a4a984e.chunk.js.map": "/React-Food-Delivery-App/static/js/787.6a4a984e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7d536b.css",
+    "static/js/main.11281c40.js"
+  ]
+}
