@@ -31,3 +31,7 @@ Give a ⭐️ if you like this project!
 ## Desktop View
 ![Desktop View of Food App](https://github.com/subratsir/React-Food-Delivery-App/blob/main/food-app-desktop-view.JPG)
 
+## VS Code Extensions Using
+- ES7 React/Redux/GraphQL/React-Native Snippets
+- Google Fonts By Lior CHAMLA
+
