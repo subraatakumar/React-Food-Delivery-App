@@ -1,6 +1,20 @@
 # React Food Delivery App
 
 
+
+## Author
+- [Subrat Sir](https://github.com/subratsir)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/subratsir/blog-app/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
 ## [See it live hear](https://subratsir.github.io/React-Food-Delivery-App)
 
 ## Mobile View
