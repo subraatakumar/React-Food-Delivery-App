@@ -3,7 +3,12 @@
 
 
 ## Author
-- [Subrat Sir](https://github.com/subratsir)
+
+👤 **Subrat**
+
+- GitHub: [@subratsir](https://github.com/subratsir)
+- LinkedIn: [subrata-ku-das](https://www.linkedin.com/in/subrata-ku-das/)
+- Twitter: [@SubratSirIndia](https://twitter.com/SubratSirIndia)
 
 ## 🤝 Contributing
 
