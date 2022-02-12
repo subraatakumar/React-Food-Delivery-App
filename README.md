@@ -34,4 +34,5 @@ Give a ⭐️ if you like this project!
 ## VS Code Extensions Using
 - ES7 React/Redux/GraphQL/React-Native Snippets
 - Google Fonts By Lior CHAMLA
+- Prettier - Code formatter By Prettier
 
